@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dharmi Malde</h1>
 <h3 align="center">Uncovering Patterns in Data 📈📈</h3>
+<img align="right" alt="coding" width="500" src="![image](https://github.com/DharmiMalde/DharmiMalde/assets/112262352/ccc6ebee-08b1-4342-a8f3-e0ffadfa8adc)
+">
 
 - 📫 How to reach me **dharmimalde123@gmail.com**
 - 📄 Know about my experiences **https://drive.google.com/file/d/1m3FZgkdkeQn-yBREDPKyUNkYCZ-FZbkJ/view?usp=drive_link**
