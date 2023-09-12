@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dharmi Malde</h1>
 <h3 align="center">Uncovering Patterns in Data 📈📈</h3>
-<img align="right" alt="coding" width="500" src="![image](https://github.com/DharmiMalde/DharmiMalde/assets/112262352/ccc6ebee-08b1-4342-a8f3-e0ffadfa8adc)
-">
-
+<img align="center" alt="coding" width="500" src="![image](https://github.com/DharmiMalde/DharmiMalde/assets/112262352/25aa9cb4-e901-40a3-9639-9d42351496d1)">
+<br><br>
 - 📫 How to reach me **dharmimalde123@gmail.com**
-- 📄 Know about my experiences **https://drive.google.com/file/d/1m3FZgkdkeQn-yBREDPKyUNkYCZ-FZbkJ/view?usp=drive_link**
+- 📄 Know about my experiences<br> **https://drive.google.com/file/d/1m3FZgkdkeQn-yBREDPKyUNkYCZ-FZbkJ/view?usp=drive_link**
 - ⚡ Fun fact **I can predict the outcome of a coin toss with 99% accuracy (just kidding, it's 50%).**
 
 <div> <a href="https://www.linkedin.com/in/Dharmi Malde" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
