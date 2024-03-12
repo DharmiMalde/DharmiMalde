@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dharmi Malde</h1>
 <h3 align="center">Uncovering Patterns in Data 📈📈</h3>
-![Animated GIF](https://images.app.goo.gl/j31iCsPaY5etSQmL7)
 <br><br>
 - 📫 How to reach me : dharmimalde123@gmail.com <br>
 - 📄 Know about my experiences :<br> https://drive.google.com/file/d/1m3FZgkdkeQn-yBREDPKyUNkYCZ-FZbkJ/view?usp=drive_link <br>
