@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dharmi Malde</h1>
 <h3 align="center">Uncovering Patterns in Data 📈📈</h3>
-<br><br>
+<br>
 - 📫 How to reach me : dharmimalde123@gmail.com <br>
 - 📄 Know about my experiences :<br> https://drive.google.com/file/d/1m3FZgkdkeQn-yBREDPKyUNkYCZ-FZbkJ/view?usp=drive_link <br>
 - ⚡ Fun fact : I can predict the outcome of a coin toss with 99% accuracy (just kidding, it's 50%).<br>
